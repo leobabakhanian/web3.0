@@ -10,7 +10,7 @@ This project requires Node.js and NPM.
 Start with cloning this repo on your local machine:
 
 ```sh
-$ git clone https://github.com/leobabakhanian/message-board.git
+$ git clone https://github.com/leobabakhanian/web3.0.git
 ```
 
 Once you have cloned the project, run npm install inside both the client and server directories to install the required dependencies. When this step is completed, run the command "npm start" inside both the client and server directories to view the live version of the web application.
